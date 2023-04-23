@@ -1,0 +1,21 @@
+title: Dertolog
+author:
+  name: Alper Kose - Alperen Savaskan
+  email: hello@example.com
+description: > # this means to ignore newlines
+  Merhaba! Dertolog, özellikle ilişkiler ve kariyer konularındaki sorularınızı cevaplamak için tasarlanmış eğlence amaçlı bir chatbot platformudur. 
+
+  Gelişmiş doğal dil işleme teknolojisi olan GPT-3.5 sayesinde, sorularınıza doğru ve anlamlı cevaplar sunmaya çalışır. Uygulama sizin sorularınızı ve taleplerinizi dinler, doğru cevapları en kısa sürede üretir ve size geri bildirimde bulunur. Ayrıca sizinle konuşmalarından öğrenir ve size daha iyi cevaplar verebilmek için sürekli kendini geliştirir.
+
+  Dertolog, ilişkiler ve kariyer konuları üzerine uzmanlaşmıştır. Sorularınızı bu konular hakkında sorabilirsiniz , Dertolog en iyi cevapları sağlayacaktır. Sorularınızın gizliliğini korumak için, tüm sorularınız özel ve güvenli bir şekilde saklanmaktadır.
+
+  Dertolog, kolay ve kullanımı basit bir uygulamadır. Sorularınızı sormak ve cevapları almak için, uygulamamızı indirin ve sorularınızı gönderin. Dertolog size en doğru cevapları sunmaya çalışır, size öneriler, tavsiyeler ve ipuçları sunar!
+
+  Ama unutmayın, Dertolog asla profesyonel bir asistan değildir. Sadece bir eğlence aracıdır!
+type: free # Choose one from "open source", "free", freemium, ad supported, commercial
+# google_analytics: UA-NNNNNNNN-N
+links:
+  app_store: https://apps.apple.com/
+theme: mobikit
+plugins:
+ - jekyll-seo-tag
